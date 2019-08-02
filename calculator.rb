@@ -1,1 +1,2 @@
-1 + 7 = 8
+first_number = 7
+second_number = 1 
