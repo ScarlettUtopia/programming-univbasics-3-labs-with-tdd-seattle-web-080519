@@ -1,2 +1,3 @@
 first_number = 7
-second_number = 1 
+second_number = 2
+sum = 9
